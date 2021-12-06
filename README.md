@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iustin117
 - 👀 I’m interested in all kinds of projects involving automation or robotics
-- 🌱 I’m currently learning ML, Java and much more
+- 🌱 I’m currently learning ML, Java and more
 - 📫 How to reach me? By email(barnaiustin17@gmail.com)
 
 <!---
